@@ -1,0 +1,6 @@
+This project is built with Node.js and React,
+so use 'npm install' in both /client and /server folders
+This file is for reference only
+
+
+Go through the **package.json** under client and server for required modules
