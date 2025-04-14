@@ -105,6 +105,49 @@ You’ll need the following API keys:
 -- Google Maps: Get an Embed API key from Google Cloud Console.
 -- YouTube Data API: Enable the YouTube Data API v3 in Google Cloud Console and generate a key.
 
+# Demo and Screen shots
+![image](https://github.com/user-attachments/assets/57b93f75-f3cd-4448-97a5-bd87b71a1b29)
+
+![image](https://github.com/user-attachments/assets/66076a82-8441-4729-ab1d-9fe5a89ae0b4)
+
+![image](https://github.com/user-attachments/assets/f02c0ba2-b80d-43c1-ae73-4fc89301e58e)
+
+![image](https://github.com/user-attachments/assets/7e6f6b60-f121-4a4f-b952-0320ab7454d1)
+
+![image](https://github.com/user-attachments/assets/88fa4f38-9fa3-467c-aa7f-ba59a4dd6479)
+
+![image](https://github.com/user-attachments/assets/b8f55e00-af7f-4ba4-a132-cd681c5f7842)
+
+![image](https://github.com/user-attachments/assets/fc36e96a-1ef3-4652-8ce2-413effe163de)
+
+![image](https://github.com/user-attachments/assets/fcf9649d-411c-4ab7-8c5a-808aac2726ea)
+
+## CRUD (Create, Read, Update, Delete) Operations
+
+### Create
+![image](https://github.com/user-attachments/assets/34672b68-027c-4aab-821c-d13239dfabb3)
+![image](https://github.com/user-attachments/assets/3eccdd5b-b100-4179-b441-77992beb2173)
+
+### Read
+![image](https://github.com/user-attachments/assets/d1f83a28-c82b-47ec-b6f1-e14830c85607)
+
+### Update
+![image](https://github.com/user-attachments/assets/48cc577a-35be-47bd-b034-83747f947a08)
+![image](https://github.com/user-attachments/assets/bac1970a-43f8-46af-a602-210733e2feb8)
+
+
+### Delete
+![image](https://github.com/user-attachments/assets/62a57a8f-613f-472f-b131-27a2f0b03897)
+![image](https://github.com/user-attachments/assets/5618b423-8904-4fb7-bf75-81bf0d872aee)
+![image](https://github.com/user-attachments/assets/83a16e61-ce9e-4bf4-a85a-9ee7db7c8840)
+
+
+### Export data to csv format(JSON also available, we can also keep other types of export also)
+![image](https://github.com/user-attachments/assets/501e9f4d-0c1c-49d4-b066-f8ddcf543a1f)
+![image](https://github.com/user-attachments/assets/95cd0afa-b44d-4a6f-a23d-7a7c1ced9ba5)
+
+
+## [Demo Video link](https://drive.google.com/file/d/11p8ykxPUl6_sgAHPz2WhE5wPVDyKlf2c/view?usp=sharing) 
 
 # License
 This project is licensed under the MIT License. See the  file for details.
